@@ -20,12 +20,12 @@ Currently learning: **Kubernetes** and **Terraform**.
 
 ## Tech I Use
 
-**Linux & scripting:** Ubuntu, Debian, Bash, Python (basic)
-**Containers & IaC:** Docker, Docker Compose, Ansible, Semaphore · *learning:* Kubernetes, Terraform
-**CI/CD:** Git, GitHub Actions, GHCR
-**Cloud:** DigitalOcean, Linode, Cloudflare
-**Observability:** Grafana, Alloy, Mimir, Prometheus, Loki
-**Security:** Teleport, Wazuh, Suricata, Trivy, Gitleaks, Semgrep
+- **Linux & scripting:** Ubuntu, Debian, Bash, Python (basic)
+- **Containers & IaC:** Docker, Docker Compose, Ansible, Semaphore · *learning:* Kubernetes, Terraform
+- **CI/CD:** Git, GitHub Actions, GHCR
+- **Cloud:** DigitalOcean, Linode, Cloudflare
+- **Observability:** Grafana, Alloy, Mimir, Prometheus, Loki
+- **Security:** Teleport, Wazuh, Suricata, Trivy, Gitleaks, Semgrep
 
 ## Contact
 
